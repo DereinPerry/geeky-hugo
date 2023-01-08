@@ -15,11 +15,10 @@ description = "This is meta description"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+mobile = "+1 (901) 658-0588"
+email = "dereinsinit.com"
+linkedin = "www.linkedin.com/in/derein-perry"
+GitHub = 
 # search
 search = true
 

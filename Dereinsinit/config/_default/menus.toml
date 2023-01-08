@@ -12,8 +12,8 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Contact"
-url = "contact/"
+name = "Resume"
+url = "Resume/"
 weight = 3
 
 [[main]]
@@ -23,16 +23,12 @@ weight = 3
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/"
+  parent = "Categories"
+  name = "Categories"
+  url = "Categories/"
   weight = 1
 
-  [[main]]
-  parent = "Pages"
-  name = "Categories"
-  url = "categories/"
-  weight = 2
+#if you want to add more headings copy lines 25-29 and edit#
 
 # footer menu
 [[footer]]
