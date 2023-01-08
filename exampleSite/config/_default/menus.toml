@@ -17,8 +17,8 @@ url = "contact/"
 weight = 3
 
 [[main]]
-name = "Pages"
-url = "#"
+name = "Resume"
+url = "resume/"
 weight = 3
 hasChildren = true
 
